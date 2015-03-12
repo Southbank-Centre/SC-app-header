@@ -8,4 +8,6 @@
  * Provides the app with the ability to display header content and features
  */
 angular
-  .module('SC-app-header');
+  .module('SC-app-header', [
+  	'headroom'
+  ]);
