@@ -4,7 +4,7 @@
   "dependencies": {
     "angular": "~1.2.0",
     "headroom.js": "~0.7.0",
-    "SC-app-utils": "Southbank-Centre/SC-app-utils"
+    "SC-app-utils": "Southbank-Centre/SC-app-utils#0.0.0"
   },
   "appPath": "app",
   "main": "./release/SC-app-header.min.js",
